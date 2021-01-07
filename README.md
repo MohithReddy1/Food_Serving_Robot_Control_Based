@@ -1,2 +1,10 @@
-# Food_Serving_Robot_Control_Based
-Food Serving Robot control based using RF Module
+# Food Serving Robot Control Based
+Description : Food Serving Robot control based using RF Module.
+Required Parts :
+1) ARDUINO UNO x 1
+2)RF MODULE COMPLETE SET
+3)60 RPM GEAR MOTOR x 4
+4)BIG SIZE WHEEL(10 x 4 cm) x 4
+5)3.5 RPM GEAR MOTOR x 1
+6)Battery
+7)Chassis
