@@ -13,7 +13,7 @@ Required Parts :
 
 5)3.5 RPM GEAR MOTOR x 1
 
-6)Battery
+6)BATTERY
 
-7)Chassis
+7)CHASSIS
 
