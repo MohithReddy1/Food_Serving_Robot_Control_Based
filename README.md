@@ -3,7 +3,7 @@ Description : Food Serving Robot control based using RF Module.
 
 Required Parts :
 
-1) ARDUINO UNO x 1
+1)ARDUINO UNO x 1
 
 2)RF MODULE COMPLETE SET
 
