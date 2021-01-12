@@ -30,6 +30,9 @@ You can use L298N Motor Driver instead of MOTOR DRIVE SHIELD.
 ![motor driver](https://user-images.githubusercontent.com/65151565/104311442-3e14b100-54fb-11eb-8a27-9bf6fab70530.jpg)
 
 # RF Module
+
+433Mhz Wireless RF Transmitter and Receiver Boards With HT12D HT12E upto 150 mtr range.
+
 ![My Post](https://user-images.githubusercontent.com/65151565/104310775-48827b00-54fa-11eb-9569-1bfdce388cc9.png)
 
 # Complete Circuit
