@@ -13,7 +13,7 @@ This Project is basically Food Serving Robot. This is based on controlling using
 
 3)60 RPM GEAR MOTOR x 4
 
-4)BIG SIZE WHEEL(10 x 4 cm) x 4
+4)BIG SIZE WHEEL (10 x 4 cm) x 4
 
 5)3.5 RPM GEAR MOTOR x 1 
 
