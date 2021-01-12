@@ -27,7 +27,7 @@ This Project is basically Food Serving Robot. This is based on controlling using
 
 # Alternative Components
 
-You can use L298N Motor Driver instead of MOTOR DRIVE SHIELD.
+You can use another L298N Motor Driver instead of MOTOR DRIVE SHIELD.
 
 ![motor driver](https://user-images.githubusercontent.com/65151565/104311442-3e14b100-54fb-11eb-8a27-9bf6fab70530.jpg)
 
