@@ -7,7 +7,7 @@ This Project is basically Food Serving Robot. This is based on controlling using
 
 # Required Components
 
-. ARDUINO UNO x 1
+1)ARDUINO UNO x 1
 
 2)RF MODULE COMPLETE SET
 
