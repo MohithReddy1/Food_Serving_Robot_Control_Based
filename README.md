@@ -19,7 +19,7 @@ This Project is basically Food Serving Robot. This is based on controlling using
 
 6)MOTOR DRIVE SHIELD x 1
 
-7)12V BATTERY & 9V BATTERY(For Remote)
+7)12V BATTERY & 9V BATTERY (For Remote)
 
 8)CHASSIS
 
